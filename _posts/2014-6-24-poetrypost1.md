@@ -2,8 +2,10 @@
 layout: post
 title: poetrypost1
 number: 1
+excerpt: prashnam vande parathparam (telugu)
 tags:
   - poetry
+  - telugu
 
 ---
 
